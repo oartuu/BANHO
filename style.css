@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("download.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+div{
+ 
+    margin-top: 60%;
+   display: flex;
+   justify-content: center;
+
+}
+h1{
+    font-size: 50px;
+    color: white;
+    font-family: 'Anton', sans-serif;
+font-family: 'Archivo Black', sans-serif;
+}
